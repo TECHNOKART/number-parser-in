@@ -39,6 +39,8 @@ info = {
         "thousand": 1000,
         "lakh": 100000,
         "lakhs": 100000,
+        "lac":100000,
+        "lacs":100000,
         "crore": 10000000,
         "crores": 10000000,
         "trillion": 1000000000000,
