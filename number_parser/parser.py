@@ -2,7 +2,7 @@ import re
 from importlib import import_module
 import unicodedata
 SENTENCE_SEPARATORS = [".", ","]
-SUPPORTED_LANGUAGES = ['en', 'es', 'hi', 'ru', 'uk']
+SUPPORTED_LANGUAGES = ['en', 'es', 'hi', 'ru', 'uk','en-IN']
 RE_BUG_LANGUAGES = ['hi']
 
 
